@@ -1,4 +1,4 @@
-# comp-avancado-desafio
+# Componente Avançado Desafio
 
 ## Project setup
 ```
